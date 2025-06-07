@@ -81,3 +81,14 @@ footer a {
   color: #ffe082;
   text-decoration: none;
 }
+.logo {
+  width: 150px;
+  display: block;
+  margin: 20px auto;
+}
+.main-image {
+  width: 60%;     /* or try 500px for exact size */
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
