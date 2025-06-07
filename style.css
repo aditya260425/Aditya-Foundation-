@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fefefe;
+  color: #333;
+}
+header {
+  background: #ff6f61;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.hero {
+  background: #ffe082;
+  padding: 50px 20px;
+  text-align: center;
+}
+.hero h2 {
+  color: #d84315;
+}
+.btn {
+  background: #ff7043;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 20px;
+  background: #e1f5fe;
+}
+.feature-box {
+  width: 30%;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+.newsletter {
+  background: #c8e6c9;
+  text-align: center;
+  padding: 30px;
+}
+.newsletter input {
+  padding: 10px;
+  width: 250px;
+  margin-right: 10px;
+}
+.newsletter button {
+  padding: 10px 20px;
+  background: #388e3c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+footer {
+  background: #455a64;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+footer a {
+  color: #ffe082;
+  text-decoration: none;
+}
