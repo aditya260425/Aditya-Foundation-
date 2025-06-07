@@ -2,8 +2,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #fefefe;
-  color: #333;
+  text-align: center;
+  background-color: #f8f8f8;
 }
 header {
   background: #ff6f61;
@@ -84,11 +84,17 @@ footer a {
 .logo {
   width: 150px;
   display: block;
-  margin: 20px auto;
+  margin: 0 auto;
 }
 b093fba2-16c4-4282-bf03-8eb6d19682af.JPG{
   width: 40%;     
   display: block;
   margin: 20px auto;
   border-radius: 10px;
+
+  .main-image {
+    width: 60%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
 }
